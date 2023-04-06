@@ -48,9 +48,6 @@ https://public.tableau.com/shared/88GKDSNRN?:display_count=n&:origin=viz_share_l
 
 ## Summary
 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-
 Even though bike sharing might seem as a way of means of transport for sightseers and/or tourists, it's more commonly used by ususal customers -subscribers- who use the service for their daily commutes all around the city.
 
 When comparing Des Moines to New York City, the number of visitors are not anywhere close. Yet, people who are likely to prefer using a bike to their usual commutes are.
